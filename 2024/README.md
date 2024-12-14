@@ -30,8 +30,8 @@ I used go1.23.3 for darwin/arm64.
 | 7    | [Day 7](day_07/day-7.go)    | 748ms   |
 | 8    | [Day 8](day_08/day-8.go)    | 23ms    |
 | 9    | [Day 9](day_09/day-9.go)    | 756ms   |
-| 10   | [Day 10](day_010/day-10.go) | 295ms   |
-| 11   | [Day 11](day_011/day-11.go) | 334ms   |
-| 12   | [Day 12](day_012/day-12.go) | 371ms   |
-| 13   | [Day 13](day_013/day-13.go) | 20ms    |
-| 14   | [Day 14](day_014/day-14.go) | 4s      |
+| 10   | [Day 10](day_10/day-10.go) | 295ms   |
+| 11   | [Day 11](day_11/day-11.go) | 334ms   |
+| 12   | [Day 12](day_12/day-12.go) | 371ms   |
+| 13   | [Day 13](day_13/day-13.go) | 20ms    |
+| 14   | [Day 14](day_14/day-14.go) | 4s      |
